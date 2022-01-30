@@ -15,8 +15,8 @@ export const Section4 = () => {
 
             <div className="columnRe" >
                 <div className="poposd" >
-                    <img src={recurso14} alt="" width='320' />
-                    <h2>CON CARRO PARTICULAR</h2>
+                    <img src={recurso14} alt="" width='300' />
+                    <h3>CON CARRO PARTICULAR</h3>
 
                     <p>Sé un Afiliado PLASS, solo necesitas tu carro particular,
                         llenar el formulario de inscripción y adjuntar los documentos que te soliciten. Una vez hayas  cumplidos todos los requisitos, en un tiempo no mayor a 72 horas, recibirás un código
@@ -24,8 +24,8 @@ export const Section4 = () => {
                     <a href="">mas</a>
                 </div>
                 <div className="poposd" >
-                    <img src={recurso15} alt="" width='320' />
-                    <h2>CON TAXI</h2>
+                    <img src={recurso15} alt="" width='300' />
+                    <h3>CON TAXI</h3>
 
                     <p>Si eres taxista también tienes la oportunidad de ser parte de nuestros Afiliados PLASS, como sabemos que los gastos de conducir un vehículo de servicio público son mayores te ofrecemos una tarifa especial descontándote el 75% del valor que pagan los vehículos particulares en tu pago mensual.
 

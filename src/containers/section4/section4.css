@@ -22,9 +22,10 @@
 }
 
 .columnRe{
+    justify-content: center;
     margin-top: 60px;;
     display: grid;
-    grid-template-columns: repeat(2 , 1fr);
+    grid-template-columns: repeat(2 , 530px);
     gap:4rem;
 
 }
@@ -35,8 +36,17 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 55px;
+    padding: 35px;
     -webkit-box-shadow: 0px 0px 9px 0px #000000; 
     box-shadow: 0px 0px 9px 0px #817d7d;
+
+}
+
+.poposd h3{
+
+   font-size:30px;
+   color: #00A1BD;
+   margin-bottom:25px;
+   margin-top:25px;
 
 }
