@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.container-header{
+
+  max-width: 140rem;
+  margin: 0 auto;
+  width: 87%;
+
+}
+
+.container-section{
+
+  max-width: 140rem;
+  margin: 0 auto;
+  width: 80%;
+
+}
+
+

@@ -1,0 +1,22 @@
+.container-btn{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-btn a{
+
+    
+        padding: 10px 75px;
+        border-radius:50px;
+        font-size: 30px;
+        text-decoration: none;
+        color: white;
+        background-color: #00A1BD;  
+        margin-bottom: 20px;     
+
+
+}
+
+

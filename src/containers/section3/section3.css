@@ -1,0 +1,44 @@
+
+
+.section3{
+    height: 80vh;
+    width: 100%;
+    background-image: url(../../assets/RecursoCar.png);
+    background-position: center center;
+    background-repeat:  no-repeat;   
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-shadow: 0px 4px 8px 2px rgba(0,0,0,0.61); 
+    box-shadow: 0px 4px 8px 2px rgba(0,0,0,0.61);
+}
+
+.section3 h2{
+    color: white;
+    font-size:60px;
+}
+
+.gggg{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.gggg P{
+
+    color: white;
+    margin-bottom:35px;
+    padding: 3px;
+    margin-right: 10px;
+    font-size: 18px;
+
+}
+
+.gggg span{
+
+    margin-right: 5px;
+
+}

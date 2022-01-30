@@ -1,0 +1,56 @@
+
+
+.containerSe{
+
+
+background-color: #00A1BD;
+padding: 6rem;
+
+}
+
+.hh{
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-content: center;
+}
+
+.jjj{
+    padding:25px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+
+}
+
+.img-phone{
+    position: absolute;
+    Top: 1440px;
+    left:250px;
+}
+
+.texty{
+
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+
+}
+
+.texty h2{
+
+    font-size: 32px;
+    color: #F4BF11;
+    border-bottom: 3px solid #F4BF11;
+    
+}
+
+.texty p{
+
+    color: white;
+    font-size:18px;
+    
+}
